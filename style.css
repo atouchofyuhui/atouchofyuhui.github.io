@@ -9,7 +9,16 @@ body {
     background: url(image/body-bj.png);
 }
 
+h3 {
+    text-align: center;
+    color: wheat;
+}
+
 p {
     text-indent: 2em;
-    color: brown
+    color: brown;
+}
+
+.p1 {
+    text-align: right;
 }
