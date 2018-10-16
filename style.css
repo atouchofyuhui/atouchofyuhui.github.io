@@ -10,15 +10,21 @@ body {
 }
 
 h3 {
-    text-align: center;
+    /* text-align: center; */
+    /* padding-top: 20px; */
     color: wheat;
 }
 
 p {
+    margin-bottom: 20px;
+    /* padding-top: 20px; */
     text-indent: 2em;
-    color: brown;
+    color: rgba(24, 255, 187, 0.99);
 }
 
 .p1 {
+    /* width: 100%; */
+    color: rgba(24, 255, 187, 0.99);
+    display: block;
     text-align: right;
 }
