@@ -9,6 +9,12 @@ body {
     background: url(image/body-bj.png);
 }
 
+h1 {
+    text-align: center;
+
+    color: wheat;
+}
+
 h3 {
     /* text-align: center; */
     /* padding-top: 20px; */
